@@ -1,9 +1,3 @@
-'''
-William Getman
-CYBV 474
-Week 5
-25 SEP 2022
-'''
 
 #Imports
 from prettytable import PrettyTable
