@@ -1,8 +1,5 @@
 139 lines (114 sloc)  3.75 KB
 '''
-William Getman
-CYBV 474
-Week 13
 Creates CSVs of Hue and Saturation data for a JPG
 '''
 
